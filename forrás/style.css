@@ -6,6 +6,8 @@ footer {
 
 #app {
   max-height: 50vh;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 td {
