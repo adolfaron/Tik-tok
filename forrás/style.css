@@ -63,3 +63,9 @@ p{
 .piros{
   color: #ff0050;
 }
+#cim{
+  border: 10px solid #ff0050;
+  border-top-color: #00f2ea;
+  border-left-color: #00f2ea;
+  padding: 5px;
+}
