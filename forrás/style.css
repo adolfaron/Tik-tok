@@ -72,3 +72,6 @@ p{
   border-left-color: #00f2ea;
   padding: 5px;
 }
+.container li{
+  text-align: left;
+}
