@@ -75,3 +75,15 @@ p{
 .container li{
   text-align: left;
 }
+.csatorna_leiras{
+  color: black;
+  font-size: 18px;
+  font-style: italic;
+  margin-top: 25px;
+}
+a:visited{
+    color: #00f2ae;
+}
+a:hover{
+  color: #ff0050;
+}
